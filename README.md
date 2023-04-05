@@ -1,4 +1,4 @@
-# Demo NFT marketplace
+# Demo Login and Register with Aptos wallet
 
 A full stack SignIn and Signup demo based on aptos devnet
 
